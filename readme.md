@@ -1,20 +1,11 @@
 Online Retail Analytics Project
-
 This project performs end-to-end exploratory data analysis on an online retail dataset to extract business insights related to sales trends, customer behavior, and product relationships.
-
 The analysis includes:
 
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Customer segmentation (RFM analysis)
-Market basket analysis
-Business insights generation
- Objectives
-Transform raw transactional data into a clean dataset
-Understand sales patterns and customer behavior
-Identify high-value customers and products
-Discover product relationships for recommendation opportunities
- Tools & Technologies
+Data cleaning and preprocessingExploratory Data Analysis (EDA)Customer segmentation (RFM analysis)
+Market basket analysisBusiness insights generation
+ ObjectivesTransform raw transactional data into a clean datasetUnderstand sales patterns and customer behaviorIdentify high-value customers and products
+Discover product relationships for recommendation opportunities Tools & Technologies
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
@@ -22,7 +13,6 @@ MLxtend (for basket analysis)
 Google Colab / Jupyter Notebook
 Dataset
 Online Retail Dataset (Kaggle)
-
 Contains:
 
 Transactions
